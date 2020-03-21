@@ -1,0 +1,3 @@
+rootProject.name='Horloge Demo'
+include ':mobile'
+include ':wear'
